@@ -1,5 +1,6 @@
 ### Hi there 👋
-## I'm Nupur Jaiswal
+## Nupur Jaiswal
+
 #### Clinical Bioinformatics | NGS Pipeline Development | WGS, WES, Somatic & Germline Variant Analysis
 ##### Copy Number Variation | Tumour Mutation Burden | MicroSatellite Instability 
 I'm Currently working on Neo-antigen Pipeline development
